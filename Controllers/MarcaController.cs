@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CatalogoAPI.Controllers
 {
+    
+
     [Route("api/[controller]")]
     public class MarcaController : Controller
     {
@@ -13,12 +15,6 @@ namespace CatalogoAPI.Controllers
         public MarcaController(CatalogoContext context)
         {
             _context = context;
-
-            if (_context.Marcas.Count() == 0)
-            {
-                Marca toyota = new Marca {Nome = "Toyota"};
-                _context.SaveChanges();
-            }
         }
 
         [HttpGet(Name = "GetMarcas")]

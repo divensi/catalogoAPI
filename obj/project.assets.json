@@ -12534,28 +12534,30 @@
     ]
   },
   "packageFolders": {
-    "/home/divensi/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\divensi\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/divensi/Projects/ASPNET/CatalogoAPI/CatalogoAPI.csproj",
+      "projectUniqueName": "C:\\Users\\divensi\\Project\\catalogoAPI\\CatalogoAPI.csproj",
       "projectName": "CatalogoAPI",
-      "projectPath": "/home/divensi/Projects/ASPNET/CatalogoAPI/CatalogoAPI.csproj",
-      "packagesPath": "/home/divensi/.nuget/packages/",
-      "outputPath": "/home/divensi/Projects/ASPNET/CatalogoAPI/obj/",
+      "projectPath": "C:\\Users\\divensi\\Project\\catalogoAPI\\CatalogoAPI.csproj",
+      "packagesPath": "C:\\Users\\divensi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\divensi\\Project\\catalogoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/divensi/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\divensi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

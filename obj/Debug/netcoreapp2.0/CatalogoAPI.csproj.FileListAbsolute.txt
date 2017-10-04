@@ -8,3 +8,13 @@
 /home/divensi/Projects/ASPNET/CatalogoAPI/obj/Debug/netcoreapp2.0/CatalogoAPI.AssemblyInfo.cs
 /home/divensi/Projects/ASPNET/CatalogoAPI/obj/Debug/netcoreapp2.0/CatalogoAPI.dll
 /home/divensi/Projects/ASPNET/CatalogoAPI/obj/Debug/netcoreapp2.0/CatalogoAPI.pdb
+C:\Users\divensi\Project\catalogoAPI\bin\Debug\netcoreapp2.0\CatalogoAPI.deps.json
+C:\Users\divensi\Project\catalogoAPI\bin\Debug\netcoreapp2.0\CatalogoAPI.runtimeconfig.json
+C:\Users\divensi\Project\catalogoAPI\bin\Debug\netcoreapp2.0\CatalogoAPI.runtimeconfig.dev.json
+C:\Users\divensi\Project\catalogoAPI\bin\Debug\netcoreapp2.0\CatalogoAPI.dll
+C:\Users\divensi\Project\catalogoAPI\bin\Debug\netcoreapp2.0\CatalogoAPI.pdb
+C:\Users\divensi\Project\catalogoAPI\obj\Debug\netcoreapp2.0\CatalogoAPI.csproj.CoreCompileInputs.cache
+C:\Users\divensi\Project\catalogoAPI\obj\Debug\netcoreapp2.0\CatalogoAPI.AssemblyInfoInputs.cache
+C:\Users\divensi\Project\catalogoAPI\obj\Debug\netcoreapp2.0\CatalogoAPI.AssemblyInfo.cs
+C:\Users\divensi\Project\catalogoAPI\obj\Debug\netcoreapp2.0\CatalogoAPI.dll
+C:\Users\divensi\Project\catalogoAPI\obj\Debug\netcoreapp2.0\CatalogoAPI.pdb
