@@ -13,15 +13,6 @@ namespace CatalogoAPI.Controllers
         public ModeloController(CatalogoContext context)
         {
             _context = context;
-
-            //if (_context.Modelos.Count() == 0)
-           // {
-            //    Modelo modelo = new Modelo { Nome = "Corolla", MarcaId = 1 };
-           //     modelo.Marca = _context.Marcas.FirstOrDefault(t => t.MarcaId == modelo.MarcaId);
-//
-            //    _context.Modelos.Add(modelo);
-            //    _context.SaveChanges();
-         //   }
         }
 
         [HttpGet(Name = "GetModelos")]

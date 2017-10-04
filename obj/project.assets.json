@@ -12540,11 +12540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\divensi\\Project\\catalogoAPI\\CatalogoAPI.csproj",
+      "projectUniqueName": "c:\\Users\\divensi\\Project\\catalogoAPI\\CatalogoAPI.csproj",
       "projectName": "CatalogoAPI",
-      "projectPath": "C:\\Users\\divensi\\Project\\catalogoAPI\\CatalogoAPI.csproj",
+      "projectPath": "c:\\Users\\divensi\\Project\\catalogoAPI\\CatalogoAPI.csproj",
       "packagesPath": "C:\\Users\\divensi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\divensi\\Project\\catalogoAPI\\obj\\",
+      "outputPath": "c:\\Users\\divensi\\Project\\catalogoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

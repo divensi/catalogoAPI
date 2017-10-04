@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace CatalogoAPI.Controllers
 {
     
-
+    
     [Route("api/[controller]")]
     public class MarcaController : Controller
     {
@@ -48,8 +48,6 @@ namespace CatalogoAPI.Controllers
 
             _context.SaveChanges();
             return CreatedAtRoute("GetMarcas", null);
-            // bug https://github.com/Microsoft/aspnet-api-versioning/issues/18
-            //return CreatedAtRoute("GetMarca", new { id = marca.Id });
         }
 
         [HttpPost]
